@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-territories-and-ownership","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\TerritoriesAndOwnership\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\TerritoriesAndOwnership\\TerritoriesAndOwnershipServiceProvider"]},"liberu":{"name":"crm-territories-and-ownership"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-territories-and-ownership","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\TerritoriesAndOwnership\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\TerritoriesAndOwnership\\TerritoriesAndOwnershipServiceProvider"]},"liberu":{"name":"crm-territories-and-ownership"}},"description":"Team-scoped territory routing and ownership history","license":"MIT"}
