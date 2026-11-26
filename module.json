@@ -2,7 +2,7 @@
   "name": "crm-territories-and-ownership",
   "display_name": "CRM Territories and Ownership",
   "description": "Team-scoped territory routing and ownership history",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "category": "capability",
   "provider": "Liberu\\CRM\\TerritoriesAndOwnership\\TerritoriesAndOwnershipServiceProvider",
   "requires": {},
